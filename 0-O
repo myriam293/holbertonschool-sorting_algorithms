@@ -1,3 +1,4 @@
-O(n)
-O(n ^ 2)
-O(n ^ 2)
+#include <stdio.h>
+#include "sort.h"
+
+echo "O(n)" > 0 - O echo "O(n^2)" >> 0 - O echo "O(n^2)" >> 0 - O
