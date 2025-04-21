@@ -1,0 +1,5 @@
+#include <stdio.h>
+#include "sort.h"
+O(n)
+O(n)
+O(n ^ 2)
