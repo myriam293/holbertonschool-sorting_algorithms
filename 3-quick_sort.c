@@ -56,8 +56,7 @@ int partition(int *array, int lower, int higher, size_t size)
 }
 
 /**
- * quick_sort - A function that sorts an array of integers
- * in ascending order using the quick sort algorithm.
+ * quick_s - Quick sort function.
  * @lower: lower
  * @higher: higher
  * @array: array
